@@ -58,7 +58,11 @@ PRODUCT_PACKAGES += \
     android.hardware.soundtrigger@2.3-impl:32
 
 PRODUCT_PACKAGES += \
-    audio.bluetooth.default:32
+    audio.bluetooth.default:32 \
+    audio.primary.default:32 \
+    audio.r_submix.default:32 \
+    audio.usb.default:32 \
+    audio_policy.stub:32
 
 PRODUCT_PACKAGES += \
     MtkInCallService

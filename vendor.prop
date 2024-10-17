@@ -118,7 +118,6 @@ ro.hardware.gatekeeper=beanpod
 ro.vendor.mtk_log_hide_gps=1
 
 # HWUI
-ro.hwui.render_ahead=20
 debug.hwui.use_hint_manager=true
 
 # Keymaster
@@ -202,7 +201,6 @@ ro.vendor.mtk_external_sim_only_slots=0
 persist.radio.multisim.config=dsds
 persist.vendor.radio.msimmode=dsds
 ro.vendor.radio.max.multisim=dsds
-ro.telephony.sim.count=2
 
 # Radio (IMS)
 persist.vendor.ims_support=1

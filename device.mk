@@ -75,8 +75,7 @@ PRODUCT_COPY_FILES += \
 
 # Bluetooth
 PRODUCT_PACKAGES += \
-    android.hardware.bluetooth@1.1-mtk-service \
-    libldacBT_bco
+    android.hardware.bluetooth@1.1-mtk-service
 
 # Boot Image profile
 PRODUCT_USE_PROFILE_FOR_BOOT_IMAGE := true

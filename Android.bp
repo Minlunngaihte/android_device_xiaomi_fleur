@@ -9,7 +9,3 @@ soong_namespace {
         "hardware/xiaomi",
     ],
 }
-
-cc_library_shared {
-    name: "libldacBT_bco",
-}
